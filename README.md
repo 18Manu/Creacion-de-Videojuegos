@@ -19,6 +19,12 @@ Repositorio de actividades y prácticas de la materia **Creación de Videojuegos
 
 ---
 
+### 🎯 Actividad 3: Sonidos y efectos  
+🔗 [Ver archivo en Google Drive](https://drive.google.com/file/d/1aXJLY2tHfkwXQ6SoJYhmcVBjH6xgYzJc/view?usp=drive_link)  
+🎮 Desarrollo de un juego de desplazamiento lateral infinito que integra música, efectos de sonido, animaciones y partículas.
+
+---
+
 ## 🧠 Prácticas  
 
 ### 🌟 Menú Desplegable  
